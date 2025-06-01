@@ -11,4 +11,4 @@ The card is connected to most computer peripheral slot lines - Address, Data, PH
 
 The design is experimental and untested yet.
 
-This is hardware design only and does not provide any firmmware.
+This is hardware design only and does not provide any firmware.
